@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/4f79514d-96f2-4ea7-acd9-a1e5a5529cc9
+View your app in AI Studio: https://rotitashop.com/
 
 ## Run Locally
 
