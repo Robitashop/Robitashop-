@@ -1,0 +1,6 @@
+{
+  "name": "Amar Bazar",
+  "description": "একটি আধুনিক এবং দৃষ্টিনন্দন ই-কমার্স ওয়েবসাইট যেখানে ক্যাটাগরি ফিল্টার, শপিং কার্ট, বিবরণী এবং অর্ডার ট্র্যাকিং রয়েছে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
